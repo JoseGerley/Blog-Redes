@@ -261,3 +261,8 @@ h1, h2, h3, h4, h5, h6 {
 .s-m a:hover > i{
   transform: scale(1.6) rotate(25deg);
 }
+
+.bg-dark-footer {
+  background-color: #343a40 !important;
+    width: 100%;
+}
